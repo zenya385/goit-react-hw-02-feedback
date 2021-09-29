@@ -1,0 +1,10 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background: rgb(164, 154, 250);
+}
